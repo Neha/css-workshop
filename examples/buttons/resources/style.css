@@ -1,0 +1,20 @@
+/* navigation  */
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button{
+    padding: 10px;
+    background: yellow;
+    border:1px solid orange;
+    font-size: 24px;
+    border-radius: 20px;
+    margin: 20px;
+    cursor: pointer;
+}
+
+button[type=submit]{
+    border-radius: 5px;
+    box-shadow: 2px 2px 1px #eee;
+}
