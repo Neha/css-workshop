@@ -1,0 +1,23 @@
+div{
+    width: 200px;
+    height: 300px;
+    outline:1px solid red;
+    padding: 10px;
+    margin: 20px;
+}
+
+section{
+    width: 200px;
+    height: 300px;
+    outline:1px solid green;
+    padding: 10px;
+    margin: 20px;
+}
+
+span{
+    width: 200px;
+    height: 300px;
+    outline:1px solid blue;
+    padding: 10px;
+    margin: 20px;
+}

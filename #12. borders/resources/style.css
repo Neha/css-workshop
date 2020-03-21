@@ -1,0 +1,30 @@
+div{
+    width: 200px;
+    height: 300px;
+    outline:1px solid red;
+    padding: 10px;
+    margin: 20px;
+    
+}
+
+section{
+    width: 200px;
+    height: 400px;
+}
+
+span{
+    width: 200px;
+    height: 300px;
+    outline:1px solid blue;
+    padding: 10px;
+    margin: 20px;
+   
+}
+
+.border-dotted{
+    border:2px dotted orange;
+}
+
+.border-dashed{
+    border:4px dashed pink;
+}

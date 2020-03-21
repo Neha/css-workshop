@@ -1,0 +1,19 @@
+/* order and unordered list */
+
+/* Margin */
+.padding-top{
+    padding-top: 20px;
+}
+
+.padding-all{
+    padding: 10px 20px 10px 20px;
+}
+
+/* padding */
+.margin-top{
+    margin-top: 20px;
+}
+
+.margin-all{
+    margin: 10px 20px 10px 20px;
+}

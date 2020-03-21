@@ -1,0 +1,29 @@
+/* Applying style to HTML Tag */
+h1{
+    color: red;
+    font-size: 18px;
+}
+
+/* Applying style to class */
+.content{
+    color: green;
+    margin-top:30px;
+    font-style: italic;
+}
+
+/* Applying style to ID */
+#container{
+    padding: 10px;
+    border:2px solid blue;
+}
+
+/* Pseudo elements */
+a:hover{
+    text-decoration: none;
+    color: yellow;
+}
+
+/* Pseudo class */
+p::first-letter{
+    font-size: 32px;
+}

@@ -1,0 +1,9 @@
+/* visibility - visible, hidden*/
+
+.visible{
+    visibility: visible;
+}
+
+.hidden{
+    visibility: hidden;
+}

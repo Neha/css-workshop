@@ -1,0 +1,9 @@
+/* order and unordered list */
+
+ol {
+    list-style-type: number;
+}
+
+ul {
+    list-style-type: disc;
+}

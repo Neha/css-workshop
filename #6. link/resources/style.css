@@ -1,0 +1,17 @@
+a{
+    color: green;
+    font-size: 16px;
+}
+
+a:hover{
+    color: orange;
+    text-decoration: none;
+}
+
+a:visited{
+    color: blueviolet;
+}
+
+a:active{
+    background: red
+}
