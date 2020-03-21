@@ -1,6 +1,8 @@
-## LIST 
+## background
 
-### order list
-
-
-### unordered list
+- color
+- image
+- position
+- size
+- repeat
+- shorthand Property
